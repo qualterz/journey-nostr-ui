@@ -1,5 +1,5 @@
 {
-	"useTabs": true,
+	"svelteIndentScriptAndStyle": true,
 	"singleQuote": true,
 	"trailingComma": "none",
 	"printWidth": 100,
