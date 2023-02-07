@@ -2,12 +2,12 @@
   import '@tabler/core/dist/css/tabler.css';
 </script>
 
-<main class="container-xxl">
+<main class="container-xl">
   <div class="row">
-    <div class="col-lg" />
-    <div class="col-lg-6">
+    <div class="col-xl" />
+    <div class="col-xl-6">
       <slot />
     </div>
-    <div class="col-lg" />
+    <div class="col-xl" />
   </div>
 </main>
