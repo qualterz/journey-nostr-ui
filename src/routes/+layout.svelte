@@ -1,7 +1,7 @@
 <script>
-  import '@picocss/pico';
+  import '@tabler/core/dist/css/tabler.css';
 </script>
 
-<main class="container">
+<main class="container-xxl">
   <slot />
 </main>
