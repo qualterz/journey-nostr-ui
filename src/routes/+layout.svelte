@@ -3,5 +3,11 @@
 </script>
 
 <main class="container-xxl">
-  <slot />
+  <div class="row">
+    <div class="col-lg" />
+    <div class="col">
+      <slot />
+    </div>
+    <div class="col-lg" />
+  </div>
 </main>
